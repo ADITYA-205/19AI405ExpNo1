@@ -2,7 +2,6 @@
 <h3>Name: ADITYA S
 <h3>Register Number: 212223040007
   
-## Date: 27/10/2026
 
 <h3>AIM:</h3>
 <br>
